@@ -2,4 +2,4 @@ Flask
 Gunicorn
 tensorflow
 cv2
-numoy
+numpy
